@@ -15,6 +15,8 @@ Before running the app, you will need to [create a private access token](https:/
 
 Be sure to copy the token to a safe place as it won't be visible again!
 
+A [Skirthooks](https://www.livechat.com/marketplace/apps/skirthooks/) installation is required - this comes with a 14 day trial.
+
 Finally, please visit the [tags](https://my.livechatinc.com/settings/tags) page and make sure a tag named `needs_review`, exists already. For simplicity's sake we won't be creating that automatically.
 
 ## Running
