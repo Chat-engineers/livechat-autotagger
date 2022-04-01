@@ -1,5 +1,4 @@
-LiveChat AutoTagger
--------------------
+# LiveChat AutoTagger
 
 An example node.js application to automatically tag finished chats to mark review.
 
